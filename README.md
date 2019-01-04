@@ -1,2 +1,2 @@
 # bayesbow
-Bayes Bag of Words
+Bayes Bag of Words for GoLang
